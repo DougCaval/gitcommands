@@ -12,7 +12,7 @@ let semValor;
 
 //Exercicio 3
 let nome = "Gislany";
-let idade = 44;
+let idade = 40;
 let altura = 1.65;
 let possuiCNH = true;
 
