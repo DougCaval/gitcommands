@@ -39,10 +39,20 @@ let profissao = "Analista de Qualidade";
 let empresa = "Lavac IT Tech™";
 let salario = 3500;
 let estaEstudando = true;
-console.log("Nome: " + nome);
-console.log("Idade: " + idade);
-console.log("Cidade: " + cidade);
-console.log("Profissão: " + profissao);
-console.log("Empresa: " + empresa);
-console.log("Salário: R$" + salario);
-console.log("Está estudando: " + estaEstudando);
+console.log(`Nome: ${nome}`);
+console.log(`Idade: ${idade}`);
+console.log(`Cidade: ${cidade}`);
+console.log(`Profissão: ${profissao}`);
+console.log(`Empresa: ${empresa}`);
+console.log(`Salário: R$ ${salario}`);
+console.log(`Está estudando: ${estaEstudando}`);
+//
+console.log("");
+//
+console.log(`Tipo da variável nome: ${typeof nome}`);
+console.log(`Tipo da variável idade: ${typeof idade}`);
+console.log(`Tipo da variável cidade: ${typeof cidade}`);
+console.log(`Tipo da variável profissao: ${typeof profissao}`);
+console.log(`Tipo da variável empresa: ${typeof empresa}`);
+console.log(`Tipo da variável salario: ${typeof salario}`);
+console.log(`Tipo da variável estaEstudando: ${typeof estaEstudando}`);
