@@ -12,13 +12,22 @@
 //-----------------------------------------------
 
 //EXERCICIO 2
-let nomeJogador = "Jogador1";
-let nivel = 23;
-let estaVivo = true;
-let itemEquipado = null;
-let proximaFase;
-console.log(typeof nomeJogador);
-console.log(typeof nivel);
-console.log(typeof estaVivo);
-console.log(typeof itemEquipado);
-console.log(typeof  proximaFase);
+//let nomeJogador = "Jogador1";
+//let nivel = 23;
+//let estaVivo = true;
+//let itemEquipado = null;
+//let proximaFase;
+//console.log(typeof nomeJogador);
+//console.log(typeof nivel);
+//console.log(typeof estaVivo);
+//console.log(typeof itemEquipado);
+//console.log(typeof  proximaFase);
+//exercicio 3
+const nome = "Joao Lucas";
+let idade = 18;
+const altura = 1.78;
+let possuiCNH = true;
+console.log("nome: " + nome);
+console.log("idade: " + idade);
+console.log("altura: " + altura);
+console.log("possui CNH: " + possuiCNH);
