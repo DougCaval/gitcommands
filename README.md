@@ -27,3 +27,8 @@ feito isso , realizar :
  - git push origin -u seuNome
 
  ________________________________________
+
+# Como executar seu arquivo 
+
+ - use cd ./ para acessar a pasta onde o arquivo está 
+ - node nomeArquivo.js para executar 
